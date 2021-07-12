@@ -8,40 +8,6 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
 }
-a{
-    text-decoration: none;
-    color: white;
-}
-
-.container{
-    width: 90%;
-    margin: 0 auto;
-}
-
-/* Header */
-header{
-    background-color: #f7f7f7;
-    padding: 7px 0;
-}
-header .container{
-    display: flex;
-    align-items: center;
-    background-color: blue;
-
-}
-
-header nav ul{
-    display: flex;
-    list-style-type: none;
-    justify-content: flex-end;
-}
-header nav{
-    width: 100%;
-}
-
-header nav ul li{
-    padding: 5px 15px;
-}
 main{
     display: flex;
     flex-direction: column;
